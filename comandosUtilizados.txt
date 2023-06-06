@@ -1,0 +1,13 @@
+use
+cd
+dir
+mkdir
+touch
+cd ..
+git init
+git remote
+git add .
+git push
+git branch
+git merge 
+git mv
